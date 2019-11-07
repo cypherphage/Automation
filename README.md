@@ -1,0 +1,2 @@
+# Automation
+Keeping myself lazy
